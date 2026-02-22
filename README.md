@@ -19,8 +19,8 @@ Página web realizada con HTML y CSS que muestra un listado de artículos. El pr
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK]()
+Repositorio en GitHub: [https://github.com/Kellyjudith/Ejercicio-2-Simple-Article-Listing]  
+Deploy: [LINK](https://kellyjudith.github.io/Ejercicio-2-Simple-Article-Listing/)
 ---
 
 ## 📝 Reflexión
